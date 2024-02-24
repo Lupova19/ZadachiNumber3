@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\obj\Debug\Zadacha4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\obj\Debug\Zadacha4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\Admin\Desktop\Lupova19\ZadachiNum3\Zadacha4\obj\Debug\Zadacha4.pdb
